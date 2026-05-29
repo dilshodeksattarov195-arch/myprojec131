@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuelete",
+        "uuid": 56985,
+        "checksum": "i0uzx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
